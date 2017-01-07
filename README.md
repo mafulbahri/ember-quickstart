@@ -1,3 +1,6 @@
+# Source information
+This repo is following the guides and tutorials from https://guides.emberjs.com.
+
 # ember-quickstart
 
 This README outlines the details of collaborating on this Ember application.
