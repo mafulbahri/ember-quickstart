@@ -13,7 +13,7 @@ let MapsUtilStub = Ember.Object.extend({
 
 moduleFor('service:maps', 'Unit | Service | maps', {
   // Specify the other units that are required for this test.
-  needs: ['service:google-maps']
+  needs: ['util:google-maps']
 });
 
 // Replace this with your real tests.

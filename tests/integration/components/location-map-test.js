@@ -9,7 +9,7 @@ let StubMapService = Ember.Service.extend({
     // which will create and then cache the map element.
     return document.createElement('div');
   }
-})
+});
 
 moduleForComponent('location-map', 'Integration | Component | location map', {
   integration: true,
